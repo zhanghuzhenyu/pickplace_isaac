@@ -7,3 +7,5 @@ The calculation of success rate in the data collection process and the inference
 But during the inference process, how do we know whether the gripper is closed? So we also added another condition, that is, whether each joint has returned to its initial position.
 
 Success rate function is located in ./controllers/husky_controller.py
+
+For placing it easier, the exmaple in ./place_success with needed usd file.
